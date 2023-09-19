@@ -857,3 +857,5 @@ INFO:root:RMSE 1.1097665860732757
 INFO:root:MAE 0.7823631496265975
 INFO:root:*****************
 INFO:root:
+INFO:root:Train on train_S2648.Vb.Vb_r_test_acdc_2.acdc_2_r
+INFO:root:Train on train_S2648.Vb.Vb_r_test_acdc_2.acdc_2_r
